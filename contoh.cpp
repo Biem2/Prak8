@@ -25,5 +25,7 @@ class persegiPanjang
 
 class Lingkaran
 {
-    
+public:
+    int jarijari;
+
 }
